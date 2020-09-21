@@ -1,5 +1,4 @@
 # FontChanger+ 
-# Allows you to change the font of any website, simply &amp; quickly!
 
-
+This is a [Tampermonkey/Greasemonkey usercript](https://www.tampermonkey.net/). 
 
